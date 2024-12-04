@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noga-x-space, a full-stack developer with devops background passionate about creating innovative web applications.
 - 👀 I’m interested in game development, game engines and fullstack development
-
+- ⚡ Interested in: GameDev and ML
 
 <!---
 noga-x-space/noga-x-space is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

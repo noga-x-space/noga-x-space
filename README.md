@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noga-x-space, a full-stack developer with devops background passionate about creating innovative web applications.
+- 👋 Hi, I’m @noga-x-space, a Devops developer in a startup passionate about finding ways to make the proccesses and code work better :)
 - 👀 I’m interested in game development, game engines and fullstack development
 
 <!---
